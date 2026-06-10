@@ -1,0 +1,112 @@
+[
+    {
+        "category": "General",
+        "description": "Let users request movies and shows. Admins manage the list from the dashboard, and titles are automatically marked complete when added to the library.",
+        "guid": "8b2b77d8-ba7a-4c69-8d6b-a55e55af9aa4",
+        "imageUrl": "",
+        "name": "Media Requests",
+        "overview": "User-facing media request system for Jellyfin.",
+        "owner": "MechNoxer",
+        "versions": [
+            {
+                "changelog": "Release 1.0.10",
+                "checksum": "63114bcb59352b033c87d2dbaae475a1",
+                "sourceUrl": "https://github.com/MechNoxer/jellyfin-plugin-mediarequests/releases/download/v1.0.10/jellyfin-plugin-mediarequests_1.0.10.zip",
+                "targetAbi": "10.9.0.0",
+                "timestamp": "2026-06-10T14:10:11.0000000Z",
+                "version": "1.0.10.0"
+            },
+            {
+                "changelog": "Release 1.0.9",
+                "checksum": "01a747356217caf94a2671b77ba3cad6",
+                "sourceUrl": "https://github.com/MechNoxer/jellyfin-plugin-mediarequests/releases/download/v1.0.9/jellyfin-plugin-mediarequests_1.0.9.zip",
+                "targetAbi": "10.9.0.0",
+                "timestamp": "2026-06-10T14:04:37.0000000Z",
+                "version": "1.0.9.0"
+            },
+            {
+                "changelog": "Release 1.0.8",
+                "checksum": "ac6e11924b0e21a151f7b0a7439d176d",
+                "sourceUrl": "https://github.com/MechNoxer/jellyfin-plugin-mediarequests/releases/download/v1.0.8/jellyfin-plugin-mediarequests_1.0.8.zip",
+                "targetAbi": "10.9.0.0",
+                "timestamp": "2026-06-10T12:34:25.0000000Z",
+                "version": "1.0.8.0"
+            },
+            {
+                "changelog": "Release 1.0.7",
+                "checksum": "2791d107ef7721492abf08cf3c21ca4c",
+                "sourceUrl": "https://github.com/MechNoxer/jellyfin-plugin-mediarequests/releases/download/v1.0.7/jellyfin-plugin-mediarequests_1.0.7.zip",
+                "targetAbi": "10.9.0.0",
+                "timestamp": "2026-06-10T10:44:23.0000000Z",
+                "version": "1.0.7.0"
+            },
+            {
+                "changelog": "Release 1.0.6",
+                "checksum": "326a73d0206672fcdee092252fb2406d",
+                "sourceUrl": "https://github.com/MechNoxer/jellyfin-plugin-mediarequests/releases/download/v1.0.6/jellyfin-plugin-mediarequests_1.0.6.zip",
+                "targetAbi": "10.9.0.0",
+                "timestamp": "2026-06-10T10:31:33.0000000Z",
+                "version": "1.0.6.0"
+            },
+            {
+                "changelog": "Release 1.0.5",
+                "checksum": "c9984ea8308a58e84c8824e247ef2f3a",
+                "sourceUrl": "https://github.com/MechNoxer/jellyfin-plugin-mediarequests/releases/download/v1.0.5/jellyfin-plugin-mediarequests_1.0.5.zip",
+                "targetAbi": "10.9.0.0",
+                "timestamp": "2026-06-10T10:21:46.0000000Z",
+                "version": "1.0.5.0"
+            },
+            {
+                "changelog": "Release 1.0.4",
+                "checksum": "f74af59e62cea2de4b13986db0c6afce",
+                "sourceUrl": "https://github.com/MechNoxer/jellyfin-plugin-mediarequests/releases/download/v1.0.4/jellyfin-plugin-mediarequests_1.0.4.zip",
+                "targetAbi": "10.9.0.0",
+                "timestamp": "2026-06-10T10:12:04.0000000Z",
+                "version": "1.0.4.0"
+            },
+            {
+                "changelog": "Release 1.0.3",
+                "checksum": "0fc70041970e067cb65aa91584c93e75",
+                "sourceUrl": "https://github.com/MechNoxer/jellyfin-plugin-mediarequests/releases/download/v1.0.3/jellyfin-plugin-mediarequests_1.0.3.zip",
+                "targetAbi": "10.9.0.0",
+                "timestamp": "2026-06-10T09:52:36.0000000Z",
+                "version": "1.0.3.0"
+            },
+            {
+                "changelog": "Release 1.0.2",
+                "checksum": "e0dc17c92f0ee73bf8cbbd49beea2c69",
+                "sourceUrl": "https://github.com/MechNoxer/jellyfin-plugin-mediarequests/releases/download/v1.0.2/jellyfin-plugin-mediarequests_1.0.2.zip",
+                "targetAbi": "10.9.0.0",
+                "timestamp": "2026-06-10T09:45:44.0000000Z",
+                "version": "1.0.2.0"
+            },
+            {
+                "changelog": "Release 1.0.1",
+                "checksum": "5aebeedeb561e5b07cfdd46a7cdb194e",
+                "sourceUrl": "https://github.com/MechNoxer/jellyfin-plugin-mediarequests/releases/download/v1.0.1/jellyfin-plugin-mediarequests_1.0.1.zip",
+                "targetAbi": "10.9.0.0",
+                "timestamp": "2026-06-10T08:55:07.0000000Z",
+                "version": "1.0.1.0"
+            }
+        ]
+    },
+    {
+        "category": "General",
+        "description": "Shows attached hard drive statuses and storage capacity on the server.",
+        "guid": "6b3c5d2e-8f4a-4b1c-9e7d-0a2f5c8e1b4d",
+        "imageUrl": "",
+        "name": "Drive Status",
+        "overview": "Hard drive status dashboard for Jellyfin admins.",
+        "owner": "MechNoxer",
+        "versions": [
+            {
+                "changelog": "Release 1.0.0",
+                "checksum": "a1cd298db5b4c2a269b9788b21db18c3",
+                "sourceUrl": "https://github.com/MechNoxer/jellyfin-plugins/releases/download/drive-status-v1.0.0/jellyfin-plugin-drivestatus_1.0.0.zip",
+                "targetAbi": "10.9.0.0",
+                "timestamp": "2026-06-10T14:30:58.0000000Z",
+                "version": "1.0.0.0"
+            }
+        ]
+    }
+]
