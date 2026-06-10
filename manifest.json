@@ -101,10 +101,10 @@
         "versions": [
             {
                 "changelog": "Release 1.0.0",
-                "checksum": "a1cd298db5b4c2a269b9788b21db18c3",
-                "sourceUrl": "https://github.com/MechNoxer/jellyfin-plugins/releases/download/drive-status-v1.0.0/jellyfin-plugin-drivestatus_1.0.0.zip",
+                "checksum": "af50b3abc8105aee80d23cff17f10c9e",
+                "sourceUrl": "https://github.com/MechNoxer/jellyfin-drive-status-plugin/releases/download/v1.0.0/jellyfin-plugin-drivestatus_1.0.0.zip",
                 "targetAbi": "10.9.0.0",
-                "timestamp": "2026-06-10T14:30:58.0000000Z",
+                "timestamp": "2026-06-10T15:08:09.0000000Z",
                 "version": "1.0.0.0"
             }
         ]
