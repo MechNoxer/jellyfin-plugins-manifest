@@ -9,6 +9,14 @@
         "owner": "MechNoxer",
         "versions": [
             {
+                "changelog": "Release 1.0.0",
+                "checksum": "89ec9f897a7a857dcc82dac938b3b71e",
+                "sourceUrl": "https://github.com/MechNoxer/jellyfin-media-requests-plugin/releases/download/v1.0.0/jellyfin-plugin-mediarequests_1.0.0.zip",
+                "targetAbi": "10.9.0.0",
+                "timestamp": "2026-06-11T07:07:25.0000000Z",
+                "version": "1.0.0.0"
+            },
+            {
                 "changelog": "Release 1.0.10",
                 "checksum": "63114bcb59352b033c87d2dbaae475a1",
                 "sourceUrl": "https://github.com/MechNoxer/jellyfin-plugin-mediarequests/releases/download/v1.0.10/jellyfin-plugin-mediarequests_1.0.10.zip",
